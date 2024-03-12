@@ -1,5 +1,5 @@
 # Data Analyst
 # Education
-Data analyss, Datacamp
+Data analysis, Datacamp
 # Work Experience
 # Projects
